@@ -10,7 +10,5 @@ def fibonacci(num):
         a=b
         b=c
     
-    
-
 number = int(input())
 fibonacci(number)
